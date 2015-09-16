@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 隨相論
+#+DATE: 2015-08-30 20:59:44.886066
+#+PROPERTY: JUAN 0
